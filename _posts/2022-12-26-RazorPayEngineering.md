@@ -1,6 +1,7 @@
 ---
 title: "Razor Pay Engineering"
 date: 2022-12-26
+category: engineering
 ---
 
 In this article we will look at the Razor Pay jounery from MVP using the stack "PHP Laravel, MySQL, Route 53" to 10s of microservices. 
